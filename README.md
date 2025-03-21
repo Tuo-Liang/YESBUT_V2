@@ -9,7 +9,7 @@ Tuo Liang, Zhe Hu, Hao Zhang, Jing Li, Yiren Lu, Yunlai Zhou, Yiran Qiao, Dishen
 ### [[Arxiv](TBD)] [[Webpage](TBD)] [[Dataset](https://github.com/Tuo-Liang/YESBUT_V2/blob/main/data/yesbut_v2.json)]
 
 # Previous Work
-NeurlIPS: [[YESBUT_v1](https://github.com/Tuo-Liang/YESBUT)]
+**NeurlIPS Paper:** [[YESBUT_v1](https://github.com/Tuo-Liang/YESBUT)]
 
 ## Our Goal
 
