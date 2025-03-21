@@ -6,7 +6,7 @@ This repository provides the official data release and code implementation of ou
 Tuo Liang, Zhe Hu, Hao Zhang, Jing Li, Yiren Lu, Yunlai Zhou, Yiran Qiao, Disheng Liu, Jerui Peng, Jing Ma, Yu Yin
 
 
-### [[Arxiv](TBD)] [[Webpage](TBD)] [[Dataset](TBD)]
+### [[Arxiv](TBD)] [[Webpage](TBD)] [[Dataset](https://github.com/Tuo-Liang/YESBUT_V2/blob/main/data/yesbut_v2.json)]
 
 # Previous Work
 NeurlIPS: [[YESBUT_v1](https://github.com/Tuo-Liang/YESBUT)]
@@ -29,17 +29,17 @@ We collect and annotate images which convey various forms of visual humor and st
 ## Dataset
 
 ### Download
-- Annotation File: The annotated data is available [here: data/YESBUT_v2.json](TBD).
+- Annotation File: The annotated data is available [here: data/YESBUT_v2.json](https://github.com/Tuo-Liang/YESBUT_V2/blob/main/data/yesbut_v2.json).
 
 - Image Download: Download the associated images by running the following command:
 ```
-python download_images.py --json_file='data/YesBut_data.json' --save_folder='data/YesBut_images'
+python download_images.py --json_file='data/yesbut_v2.json' --save_folder='data/YesBut_images'
 ```
 This will save the images to the specified `data/YesBut_images` folder.
 
 
 ### Annotated data format
-- The file is in `/data/YesBut_data.json`
+- The file is in `/data/yesbut_v2.json`
 - The file has the format such as following.
 ```
  {
