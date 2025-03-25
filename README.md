@@ -3,7 +3,7 @@ This repository provides the official data release and code implementation of ou
 
 **When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor in Comics?**
 
-Tuo Liang, Zhe Hu, Hao Zhang, Jing Li, Yiren Lu, Yunlai Zhou, Yiran Qiao, Disheng Liu, Jerui Peng, Jing Ma, Yu Yin
+Tuo Liang, Zhe Hu, Jing Li, Hao Zhang, Yiren Lu, Yunlai Zhou, Yiran Qiao, Disheng Liu, Jerui Peng, Jing Ma, Yu Yin
 
 
 ### [[Arxiv](TBD)] [[Webpage](TBD)] [[Dataset](https://github.com/Tuo-Liang/YESBUT_V2/blob/main/data/yesbut_v2.json)]
