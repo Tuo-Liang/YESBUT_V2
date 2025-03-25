@@ -119,6 +119,14 @@ Then run the command:
 bash predict_model_name.sh
 ```
 
+## Lora Finetuning
+We offer LlaVA-Next-7B, LlaVA-Next-13B and Qwen2-VL-7B 2 models lora finetuning samples in folder finetune.
+
+For example, run the command:
+```
+bash llava13b.sh
+```
+
 ## Citation
 ```
 @article{hu2024cracking,
