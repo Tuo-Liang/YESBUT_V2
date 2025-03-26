@@ -22,7 +22,6 @@ import nltk
 nltk.download('punkt')
 nltk.download('wordnet')
 
-
 In G_eval.py, set API_KEY = '<your_openai_api_key>' before use.
 
 ## Usage
