@@ -1,4 +1,4 @@
-# When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor in Comics?
+# [YESBUT Benchmark v2] When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor in Comics?
 This repository provides the official data release and code implementation of our paper:
 
 **When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor in Comics?**
@@ -9,7 +9,7 @@ Tuo Liang, Zhe Hu, Jing Li, Hao Zhang, Yiren Lu, Yunlai Zhou, Yiran Qiao, Dishen
 ### [[Arxiv](TBD)] [[Webpage](TBD)] [[Dataset](https://github.com/Tuo-Liang/YESBUT_V2/blob/main/data/yesbut_v2.json)]
 
 # Previous Work
-**NeurlIPS Paper:** [YESBUT_v1](https://github.com/Tuo-Liang/YESBUT)
+**NeurIPS Paper:** [YESBUT_v1](https://vulab-ai.github.io/YESBUT_Homepage/)
 
 ## Our Goal
 
