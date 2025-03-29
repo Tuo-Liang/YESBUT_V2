@@ -39,7 +39,7 @@
 
 ## Overview
 
-Understanding humor—particularly when it involves complex, contradictory narratives that require comparative reasoning—remains a significant challenge for large vision-language models (VLMs). This limitation hinders AI’s ability to engage in human-like reasoning and cultural expression. We introduce YESBUT (V2), a comprehensive benchmark designed to evaluate how well large vision-language models (VLMs) can understand and interpret complex, contradictory humor in comics. 
+Understanding humor—particularly when it involves complex, contradictory narratives that require comparative reasoning—remains a significant challenge for large vision-language models (VLMs). We introduce YESBUT (V2), a comprehensive benchmark designed to evaluate how well VLMs can understand and interpret complex, contradictory humor in comics. 
 
 Building upon our previous work YESBUT_v1, this expanded dataset includes 1,262 comic images featuring juxtaposed panels that create humor through contradictions. We design multi-tiered tasks—ranging from basic content recognition to deep narrative comprehension—ensuring a comprehensive assessment of AI’s interpretative abilities.
  
