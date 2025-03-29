@@ -1,7 +1,7 @@
-# [YESBUT Benchmark v2] When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor in Comics?
+# [YESBUT Benchmark v2] When ‘YES’ Meets ‘BUT’: Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?
 This repository provides the official data release and code implementation of our paper:
 
-**When ‘YES’ Meets ‘BUT’: Can AI Comprehend Contradictory Humor in Comics?**
+**When ‘YES’ Meets ‘BUT’: Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?**
 
 Tuo Liang, Zhe Hu, Jing Li, Hao Zhang, Yiren Lu, Yunlai Zhou, Yiran Qiao, Disheng Liu, Jerui Peng, Jing Ma, Yu Yin
 
