@@ -35,20 +35,20 @@
 
 #### 🌟 YesBut V2 Dataset for Comparative Reasoning on Contradictory Comics
 
-#### Previous Work:
-**NeurIPS 2024 OralPaper:** [YESBUT_v1](https://vulab-ai.github.io/YESBUT_Homepage/)
+#### 🚩 Previous Work: **NeurIPS 2024 OralPaper:** [YESBUT_v1](https://vulab-ai.github.io/YESBUT_Homepage/)
 
-## Our Goal
+## Overview
 
-We aim to challenge AI systems in their ability to recognize and interpret visual humor, grasp nuances in human behavior, comprehend wordplay, and appreciate cultural references. This understanding can enhance AI's ability to interact with users, generate creative content, and interpret multimedia content more effectively, thereby improving user experience in various applications such as content recommendation systems, virtual assistants, and automated content creation tools.
+Understanding humor—particularly when it involves complex, contradictory narratives that require comparative reasoning—remains a significant challenge for large vision-language models (VLMs). This limitation hinders AI’s ability to engage in human-like reasoning and cultural expression. We introduce YESBUT (V2), a comprehensive benchmark designed to evaluate how well large vision-language models (VLMs) can understand and interpret complex, contradictory humor in comics. 
 
-We collect and annotate images which convey various forms of visual humor and storytelling through simple comic panels. They explore themes such as human behavior, animal antics, and wordplay, often leading to unexpected or ironic conclusions.
+Building upon our previous work YESBUT_v1, this expanded dataset includes 1,262 comic images featuring juxtaposed panels that create humor through contradictions. We design multi-tiered tasks—ranging from basic content recognition to deep narrative comprehension—ensuring a comprehensive assessment of AI’s interpretative abilities.
+ 
 <div align='left'><img src="./samples/samples.jpg"  alt="NAME" width="80%"/></div>
 
 ## What we update comparing to [[YESBUT_v1](https://github.com/Tuo-Liang/YESBUT)]?
-1. Expanded Dataset: YESBUT grows from 349 to 1,262 images, enhancing diversity and robustness for better VLM evaluation.
-2. Comprehensive Evaluation: We assess various VLMs and LLMs, comparing general-purpose, reasoning-enhanced, and multi-image models.
-3. Fine-grained Analysis: Statistical and ablation studies reveal key factors affecting humor comprehension and model failures.
+1. Expanded Dataset: YESBUT grows from 349 to 1,262 images, enhancing diversity and robustness for better VLM evaluation;
+2. Comprehensive Evaluation: We assess various VLMs and LLMs, comparing general-purpose, reasoning-enhanced, and multi-image models;
+3. Fine-grained Analysis: Statistical and ablation studies reveal key factors affecting humor comprehension and model failuresl
 4. Practical Improvements: We propose simple yet effective strategies to enhance VLMs' understanding of juxtaposition-based humor.
 
 
