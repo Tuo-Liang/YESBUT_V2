@@ -33,8 +33,7 @@
 </div>
 
 
-
-This repository provides the official data release (YesBut V2) and code implementation.
+#### 🌟 YesBut V2 Dataset for Comparative Reasoning on Contradictory Comics
 
 # Previous Work
 **NeurIPS Paper:** [YESBUT_v1](https://vulab-ai.github.io/YESBUT_Homepage/)
