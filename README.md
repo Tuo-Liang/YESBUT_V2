@@ -43,7 +43,7 @@ Understanding humor—particularly when it involves complex, contradictory narra
 
 Building upon our previous work YESBUT_v1, this expanded dataset includes 1,262 comic images featuring juxtaposed panels that create humor through contradictions. We design multi-tiered tasks—ranging from basic content recognition to deep narrative comprehension—ensuring a comprehensive assessment of AI’s interpretative abilities.
  
-<div align='left'><img src="./samples/samples.jpg"  alt="NAME" width="80%"/></div>
+<div align='left'><img src="./samples/samples.jpg"  alt="NAME" width="60%"/></div>
 
 ## What we update comparing to [[YESBUT_v1](https://github.com/Tuo-Liang/YESBUT)]?
 1. Expanded Dataset: YESBUT grows from 349 to 1,262 images, enhancing diversity and robustness for better VLM evaluation;
@@ -56,7 +56,7 @@ Building upon our previous work YESBUT_v1, this expanded dataset includes 1,262 
 ## Dataset
 
 ### Download
-- Annotation File: The annotated data is available [here: data/YESBUT_v2.json](https://github.com/Tuo-Liang/YESBUT_V2/blob/main/data/yesbut_v2.json).
+- Annotation File: The annotated data is available at: [data/YESBUT_v2.json](https://github.com/Tuo-Liang/YESBUT_V2/blob/main/data/yesbut_v2.json).
 
 - Image Download: Download the associated images by running the following command:
 ```
