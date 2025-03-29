@@ -35,15 +35,15 @@
 
 #### 🌟 YesBut V2 Dataset for Comparative Reasoning on Contradictory Comics
 
-# Previous Work
-**NeurIPS Paper:** [YESBUT_v1](https://vulab-ai.github.io/YESBUT_Homepage/)
+#### Previous Work:
+**NeurIPS 2024 OralPaper:** [YESBUT_v1](https://vulab-ai.github.io/YESBUT_Homepage/)
 
 ## Our Goal
 
 We aim to challenge AI systems in their ability to recognize and interpret visual humor, grasp nuances in human behavior, comprehend wordplay, and appreciate cultural references. This understanding can enhance AI's ability to interact with users, generate creative content, and interpret multimedia content more effectively, thereby improving user experience in various applications such as content recommendation systems, virtual assistants, and automated content creation tools.
 
 We collect and annotate images which convey various forms of visual humor and storytelling through simple comic panels. They explore themes such as human behavior, animal antics, and wordplay, often leading to unexpected or ironic conclusions.
-<div align='left'><img src="./samples/samples.jpg"  alt="NAME" width="100%"/></div>
+<div align='left'><img src="./samples/samples.jpg"  alt="NAME" width="80%"/></div>
 
 ## What we update comparing to [[YESBUT_v1](https://github.com/Tuo-Liang/YESBUT)]?
 1. Expanded Dataset: YESBUT grows from 349 to 1,262 images, enhancing diversity and robustness for better VLM evaluation.
