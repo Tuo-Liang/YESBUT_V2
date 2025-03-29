@@ -1,12 +1,40 @@
-# [YESBUT Benchmark v2] When ‘YES’ Meets ‘BUT’: Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?
-This repository provides the official data release and code implementation of our paper:
-
-**When ‘YES’ Meets ‘BUT’: Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?**
-
-Tuo Liang, Zhe Hu, Jing Li, Hao Zhang, Yiren Lu, Yunlai Zhou, Yiran Qiao, Disheng Liu, Jerui Peng, Jing Ma, Yu Yin
+<div align="center">
 
 
-### [[Arxiv](TBD)] [[Webpage](TBD)] [[Dataset](https://github.com/Tuo-Liang/YESBUT_V2/blob/main/data/yesbut_v2.json)]
+<h1>When ‘YES’ Meets ‘BUT’: Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?</h1>
+
+<div>
+    <a target='_blank'>Tuo Liang<sup>1,*</sup></a>&emsp;
+    <a target='_blank'>Zhe Hu<sup>2,*</sup></a>&emsp;
+    <a target='_blank'>Jing Li<sup>2,</sup></a>&emsp;
+    <a target='_blank'>Hao Zhang<sup>1,</sup></a>&emsp;
+    <a target='_blank'>Yiren Lu<sup>1,</sup></a>&emsp;
+    <a target='_blank'>Yunlai Zhou<sup>1,</sup></a>&emsp;
+    <a target='_blank'>Yiran Qiao<sup>1,</sup></a>
+    <a target='_blank'>Disheng Liu<sup>1,</sup></a>
+    <a target='_blank'>Jeirui Peng<sup>1,</sup></a>
+    <a target='_blank'>Jing Ma<sup>1,</sup></a>
+    <a target='_blank'>Yu Yin<sup>1,</sup></a>
+</div>
+
+<div>
+    <sup>1</sup>Case Western Reserve University, <sup>2</sup>The Hong Kong Polytechnic University&emsp; 
+</div>
+<div>
+* equal contribution
+</div>
+
+[[Arxiv]]()
+[[Website]](https://vulab-ai.github.io/YESBUT-v2/)
+[[Dataset]]()
+
+---
+
+</div>
+
+
+
+This repository provides the official data release (YesBut V2) and code implementation.
 
 # Previous Work
 **NeurIPS Paper:** [YESBUT_v1](https://vulab-ai.github.io/YESBUT_Homepage/)
