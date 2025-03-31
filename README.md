@@ -35,7 +35,7 @@
 
 #### 🌟 YesBut V2 Dataset for Comparative Reasoning on Contradictory Comics
 
-#### 🚩 Previous Work: **NeurIPS 2024 OralPaper:** [YESBUT_v1](https://vulab-ai.github.io/YESBUT_Homepage/)
+#### 🚩 Previous Work: **NeurIPS 2024 Oral Paper:** [YESBUT_v1](https://vulab-ai.github.io/YESBUT_Homepage/)
 
 ## Overview
 
