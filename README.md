@@ -26,7 +26,7 @@
 
 [[Arxiv]]()
 [[Website]](https://vulab-ai.github.io/YESBUT-v2/)
-[[Dataset]]()
+[[🤗 Dataset]](https://huggingface.co/datasets/zhehuderek/YESBUT_Benchmark_V2)
 
 ---
 
