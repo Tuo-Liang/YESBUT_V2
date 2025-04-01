@@ -24,8 +24,8 @@
 * equal contribution
 </div>
 
-[[Arxiv]]()
-[[Website]](https://vulab-ai.github.io/YESBUT-v2/)
+[[Arxiv]](https://arxiv.org/pdf/2503.23137)
+[[Website]](https://vulab-ai.github.io/YESBUT-v2)
 [[🤗 Dataset]](https://huggingface.co/datasets/zhehuderek/YESBUT_Benchmark_V2)
 
 ---
