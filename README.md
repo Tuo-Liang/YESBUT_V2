@@ -157,11 +157,20 @@ All the parameters can be modified in .sh file.
 
 ## Citation
 ```
-@article{hu2024cracking,
-  title={Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions},
-  author={Hu, Zhe and Liang, Tuo and Li, Jing and Lu, Yiren and Zhou, Yunlai and Qiao, Yiran and Ma, Jing and Yin, Yu},
-  journal={arXiv preprint arXiv:2405.19088},
-  year={2024}
+@article{liang2025yes,
+  title={When'YES'Meets' BUT': Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?},
+  author={Liang, Tuo and Hu, Zhe and Li, Jing and Zhang, Hao and Lu, Yiren and Zhou, Yunlai and Qiao, Yiran and Liu, Disheng and Peng, Jeirui and Ma, Jing and others},
+  journal={arXiv preprint arXiv:2503.23137},
+  year={2025}
+}
+
+@inproceedings{
+hu2024cracking,
+title={Cracking the Code of Juxtaposition: Can {AI} Models Understand the Humorous Contradictions},
+author={Zhe Hu and Tuo Liang and Jing Li and Yiren Lu and Yunlai Zhou and Yiran Qiao and Jing Ma and Yu Yin},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024},
+url={https://openreview.net/forum?id=bCMpdaQCNW}
 }
 
 ```
